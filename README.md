@@ -277,6 +277,7 @@ See https://www.rust-lang.org/community for a list of chat platforms and forums.
 See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
+macos
 
 Rust is primarily distributed under the terms of both the MIT license and the
 Apache License (Version 2.0), with portions covered by various BSD-like
